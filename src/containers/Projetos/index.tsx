@@ -1,6 +1,5 @@
 import Titulo from '../../components/Titulo'
 import Projeto from '../../components/Projeto'
-
 import { Lista } from './styles'
 
 const Projetos = () => (
@@ -8,28 +7,40 @@ const Projetos = () => (
     <Titulo fontSize={16}>Projetos</Titulo>
     <Lista>
       <li>
-        <Projetos />
+        <Projeto />
       </li>
       <li>
-        <Projetos />
+        <Projeto />
       </li>
       <li>
-        <Projetos />
+        <Projeto />
       </li>
       <li>
-        <Projetos />
+        <Projeto />
       </li>
       <li>
-        <Projetos />
+        <Projeto />
       </li>
       <li>
-        <Projetos />
+        <Projeto />
       </li>
       <li>
-        <Projetos />
+        <Projeto />
       </li>
       <li>
-        <Projetos />
+        <Projeto />
+      </li>
+      <li>
+        <Projeto />
+      </li>
+      <li>
+        <Projeto />
+      </li>
+      <li>
+        <Projeto />
+      </li>
+      <li>
+        <Projeto />
       </li>
     </Lista>
   </section>

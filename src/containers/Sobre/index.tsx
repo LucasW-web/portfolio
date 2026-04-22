@@ -12,8 +12,8 @@ const Sobre = () => (
       tenetur earum?
     </Paragrafo>
     <Githubsecao>
-      <img src="https://github-readme-stats.vercel.app/api?username=LucasW-web&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasW-web&layout=compact&langs_count=7&theme=dracula" />
+      <img src="https://github-readme-stats.vercel.app/api?username=lucasw-web&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasw-web&layout=compact&langs_count=7&theme=dracula" />
     </Githubsecao>
   </section>
 )

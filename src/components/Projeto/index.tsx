@@ -1,5 +1,4 @@
 import Paragrafo from '../Paragrafo'
-import styled from 'styled-components'
 import Titulo from '../Titulo'
 
 import { Card, LinkBotao } from './styles'
